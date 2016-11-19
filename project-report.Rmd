@@ -1,7 +1,7 @@
 ---
 title: "Practical Machine Learning Project"
-author: "soesilo wijono"
-date: "May 19, 2015"
+By: "Ghazouan Sabh"
+date: "20/11/2016"
 output: html_document
 ---
 ## Prediction Assignment
