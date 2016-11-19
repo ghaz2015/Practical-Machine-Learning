@@ -1,5 +1,7 @@
 # Practical Machine Learning
-Coursera's Data Science Specialization, Practical Machine Learning's project, Prediction Assignment Writeup.
+Practical Machine Learning's project, Prediction Assignment Writeup.
+by Ghaz Sabh
+20/11/2016
 
 ## Background  ##
 
